@@ -1,0 +1,42 @@
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\SuperDigital.UnitTests.deps.json
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\SuperDigital.UnitTests.runtimeconfig.json
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\SuperDigital.UnitTests.runtimeconfig.dev.json
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\SuperDigital.UnitTests.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\SuperDigital.Common.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Common.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Model.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Model.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\SuperDigital.Common.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Common.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.UnitTests\obj\Debug\netcoreapp2.2\SuperDigital.UnitTests.csprojAssemblyReference.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.UnitTests\obj\Debug\netcoreapp2.2\SuperDigital.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.UnitTests\obj\Debug\netcoreapp2.2\SuperDigital.UnitTests.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.UnitTests\obj\Debug\netcoreapp2.2\SuperDigital.UnitTests.AssemblyInfo.cs
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.UnitTests\obj\Debug\netcoreapp2.2\SuperDigital.UnitTests.csproj.CopyComplete
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\SuperDigital.UnitTests.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.UnitTests\obj\Debug\netcoreapp2.2\SuperDigital.UnitTests.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.UnitTests\obj\Debug\netcoreapp2.2\SuperDigital.UnitTests.pdb
+F:\Projetos\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Projetos\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Projetos\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Projetos\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\SuperDigital.UnitTests.deps.json
+F:\Projetos\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\SuperDigital.UnitTests.runtimeconfig.json
+F:\Projetos\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\SuperDigital.UnitTests.runtimeconfig.dev.json
+F:\Projetos\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\SuperDigital.UnitTests.dll
+F:\Projetos\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\SuperDigital.UnitTests.pdb
+F:\Projetos\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\SuperDigital.Common.dll
+F:\Projetos\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Common.dll
+F:\Projetos\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Model.dll
+F:\Projetos\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\SuperDigital.Common.pdb
+F:\Projetos\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Model.pdb
+F:\Projetos\SuperDigital\SuperDigital.UnitTests\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Common.pdb
+F:\Projetos\SuperDigital\SuperDigital.UnitTests\obj\Debug\netcoreapp2.2\SuperDigital.UnitTests.csprojAssemblyReference.cache
+F:\Projetos\SuperDigital\SuperDigital.UnitTests\obj\Debug\netcoreapp2.2\SuperDigital.UnitTests.csproj.CoreCompileInputs.cache
+F:\Projetos\SuperDigital\SuperDigital.UnitTests\obj\Debug\netcoreapp2.2\SuperDigital.UnitTests.AssemblyInfoInputs.cache
+F:\Projetos\SuperDigital\SuperDigital.UnitTests\obj\Debug\netcoreapp2.2\SuperDigital.UnitTests.AssemblyInfo.cs
+F:\Projetos\SuperDigital\SuperDigital.UnitTests\obj\Debug\netcoreapp2.2\SuperDigital.UnitTests.csproj.CopyComplete
+F:\Projetos\SuperDigital\SuperDigital.UnitTests\obj\Debug\netcoreapp2.2\SuperDigital.UnitTests.dll
+F:\Projetos\SuperDigital\SuperDigital.UnitTests\obj\Debug\netcoreapp2.2\SuperDigital.UnitTests.pdb

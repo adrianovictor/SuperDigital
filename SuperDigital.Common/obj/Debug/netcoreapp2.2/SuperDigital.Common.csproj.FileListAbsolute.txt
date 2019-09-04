@@ -1,0 +1,18 @@
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Common\bin\Debug\netcoreapp2.2\SuperDigital.Common.deps.json
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Common\bin\Debug\netcoreapp2.2\SuperDigital.Common.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Common\bin\Debug\netcoreapp2.2\SuperDigital.Common.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Common\obj\Debug\netcoreapp2.2\SuperDigital.Common.csprojAssemblyReference.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Common\obj\Debug\netcoreapp2.2\SuperDigital.Common.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Common\obj\Debug\netcoreapp2.2\SuperDigital.Common.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Common\obj\Debug\netcoreapp2.2\SuperDigital.Common.AssemblyInfo.cs
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Common\obj\Debug\netcoreapp2.2\SuperDigital.Common.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Common\obj\Debug\netcoreapp2.2\SuperDigital.Common.pdb
+F:\Projetos\SuperDigital\SuperDigital.Common\bin\Debug\netcoreapp2.2\SuperDigital.Common.deps.json
+F:\Projetos\SuperDigital\SuperDigital.Common\bin\Debug\netcoreapp2.2\SuperDigital.Common.dll
+F:\Projetos\SuperDigital\SuperDigital.Common\bin\Debug\netcoreapp2.2\SuperDigital.Common.pdb
+F:\Projetos\SuperDigital\SuperDigital.Common\obj\Debug\netcoreapp2.2\SuperDigital.Common.csprojAssemblyReference.cache
+F:\Projetos\SuperDigital\SuperDigital.Common\obj\Debug\netcoreapp2.2\SuperDigital.Common.csproj.CoreCompileInputs.cache
+F:\Projetos\SuperDigital\SuperDigital.Common\obj\Debug\netcoreapp2.2\SuperDigital.Common.AssemblyInfoInputs.cache
+F:\Projetos\SuperDigital\SuperDigital.Common\obj\Debug\netcoreapp2.2\SuperDigital.Common.AssemblyInfo.cs
+F:\Projetos\SuperDigital\SuperDigital.Common\obj\Debug\netcoreapp2.2\SuperDigital.Common.dll
+F:\Projetos\SuperDigital\SuperDigital.Common\obj\Debug\netcoreapp2.2\SuperDigital.Common.pdb

@@ -1,0 +1,50 @@
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Common.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Common.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Model.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Persistency.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\obj\Debug\netcoreapp2.2\SuperDigital.Api.csprojAssemblyReference.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\obj\Debug\netcoreapp2.2\SuperDigital.Api.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\obj\Debug\netcoreapp2.2\SuperDigital.Api.RazorAssemblyInfo.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\obj\Debug\netcoreapp2.2\SuperDigital.Api.RazorAssemblyInfo.cs
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\obj\Debug\netcoreapp2.2\SuperDigital.Api.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\obj\Debug\netcoreapp2.2\SuperDigital.Api.AssemblyInfo.cs
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\obj\Debug\netcoreapp2.2\SuperDigital.Api.RazorTargetAssemblyInfo.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Api.deps.json
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Api.runtimeconfig.json
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Api.runtimeconfig.dev.json
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Api.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Api.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Persistency.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Common.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Common.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Model.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\obj\Debug\netcoreapp2.2\SuperDigital.Api.csproj.CopyComplete
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\obj\Debug\netcoreapp2.2\SuperDigital.Api.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\obj\Debug\netcoreapp2.2\SuperDigital.Api.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.pdb
+F:\Projetos\SuperDigital\SuperDigital.Api\obj\Debug\netcoreapp2.2\SuperDigital.Api.csprojAssemblyReference.cache
+F:\Projetos\SuperDigital\SuperDigital.Api\obj\Debug\netcoreapp2.2\SuperDigital.Api.csproj.CoreCompileInputs.cache
+F:\Projetos\SuperDigital\SuperDigital.Api\obj\Debug\netcoreapp2.2\SuperDigital.Api.RazorAssemblyInfo.cache
+F:\Projetos\SuperDigital\SuperDigital.Api\obj\Debug\netcoreapp2.2\SuperDigital.Api.RazorAssemblyInfo.cs
+F:\Projetos\SuperDigital\SuperDigital.Api\obj\Debug\netcoreapp2.2\SuperDigital.Api.AssemblyInfoInputs.cache
+F:\Projetos\SuperDigital\SuperDigital.Api\obj\Debug\netcoreapp2.2\SuperDigital.Api.AssemblyInfo.cs
+F:\Projetos\SuperDigital\SuperDigital.Api\obj\Debug\netcoreapp2.2\SuperDigital.Api.dll
+F:\Projetos\SuperDigital\SuperDigital.Api\obj\Debug\netcoreapp2.2\SuperDigital.Api.pdb
+F:\Projetos\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Api.deps.json
+F:\Projetos\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Api.runtimeconfig.json
+F:\Projetos\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Api.runtimeconfig.dev.json
+F:\Projetos\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Api.dll
+F:\Projetos\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Api.pdb
+F:\Projetos\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Common.dll
+F:\Projetos\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Common.dll
+F:\Projetos\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Model.dll
+F:\Projetos\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Persistency.dll
+F:\Projetos\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.dll
+F:\Projetos\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Common.pdb
+F:\Projetos\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Persistency.pdb
+F:\Projetos\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.pdb
+F:\Projetos\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Common.pdb
+F:\Projetos\SuperDigital\SuperDigital.Api\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Model.pdb
+F:\Projetos\SuperDigital\SuperDigital.Api\obj\Debug\netcoreapp2.2\SuperDigital.Api.RazorTargetAssemblyInfo.cache
+F:\Projetos\SuperDigital\SuperDigital.Api\obj\Debug\netcoreapp2.2\SuperDigital.Api.csproj.CopyComplete

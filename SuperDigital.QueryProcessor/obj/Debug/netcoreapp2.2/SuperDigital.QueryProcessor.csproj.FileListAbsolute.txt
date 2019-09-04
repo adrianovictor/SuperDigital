@@ -1,0 +1,24 @@
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.QueryProcessor\bin\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.deps.json
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.QueryProcessor\bin\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.QueryProcessor\bin\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.QueryProcessor\obj\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.csprojAssemblyReference.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.QueryProcessor\obj\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.QueryProcessor\obj\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.QueryProcessor\obj\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.AssemblyInfo.cs
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.QueryProcessor\obj\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.QueryProcessor\obj\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.QueryProcessor\bin\Debug\netcoreapp2.2\SuperDigital.Common.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.QueryProcessor\bin\Debug\netcoreapp2.2\SuperDigital.Common.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.QueryProcessor\obj\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.csproj.CopyComplete
+F:\Projetos\SuperDigital\SuperDigital.QueryProcessor\bin\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.deps.json
+F:\Projetos\SuperDigital\SuperDigital.QueryProcessor\bin\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.dll
+F:\Projetos\SuperDigital\SuperDigital.QueryProcessor\bin\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.pdb
+F:\Projetos\SuperDigital\SuperDigital.QueryProcessor\bin\Debug\netcoreapp2.2\SuperDigital.Common.dll
+F:\Projetos\SuperDigital\SuperDigital.QueryProcessor\bin\Debug\netcoreapp2.2\SuperDigital.Common.pdb
+F:\Projetos\SuperDigital\SuperDigital.QueryProcessor\obj\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.csprojAssemblyReference.cache
+F:\Projetos\SuperDigital\SuperDigital.QueryProcessor\obj\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.csproj.CoreCompileInputs.cache
+F:\Projetos\SuperDigital\SuperDigital.QueryProcessor\obj\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.AssemblyInfoInputs.cache
+F:\Projetos\SuperDigital\SuperDigital.QueryProcessor\obj\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.AssemblyInfo.cs
+F:\Projetos\SuperDigital\SuperDigital.QueryProcessor\obj\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.csproj.CopyComplete
+F:\Projetos\SuperDigital\SuperDigital.QueryProcessor\obj\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.dll
+F:\Projetos\SuperDigital\SuperDigital.QueryProcessor\obj\Debug\netcoreapp2.2\SuperDigital.QueryProcessor.pdb

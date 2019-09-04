@@ -1,0 +1,32 @@
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Persistency\bin\Debug\netcoreapp2.2\SuperDigital.Persistency.deps.json
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Persistency\bin\Debug\netcoreapp2.2\SuperDigital.Persistency.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Persistency\obj\Debug\netcoreapp2.2\SuperDigital.Persistency.csprojAssemblyReference.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Persistency\obj\Debug\netcoreapp2.2\SuperDigital.Persistency.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Persistency\obj\Debug\netcoreapp2.2\SuperDigital.Persistency.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Persistency\obj\Debug\netcoreapp2.2\SuperDigital.Persistency.AssemblyInfo.cs
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Persistency\bin\Debug\netcoreapp2.2\SuperDigital.Persistency.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Persistency\bin\Debug\netcoreapp2.2\SuperDigital.Common.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Persistency\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Common.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Persistency\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Model.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Persistency\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Common.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Persistency\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Model.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Persistency\bin\Debug\netcoreapp2.2\SuperDigital.Common.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Persistency\obj\Debug\netcoreapp2.2\SuperDigital.Persistency.csproj.CopyComplete
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Persistency\obj\Debug\netcoreapp2.2\SuperDigital.Persistency.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\SuperDigital\SuperDigital.Persistency\obj\Debug\netcoreapp2.2\SuperDigital.Persistency.pdb
+F:\Projetos\SuperDigital\SuperDigital.Persistency\bin\Debug\netcoreapp2.2\SuperDigital.Persistency.deps.json
+F:\Projetos\SuperDigital\SuperDigital.Persistency\bin\Debug\netcoreapp2.2\SuperDigital.Persistency.dll
+F:\Projetos\SuperDigital\SuperDigital.Persistency\bin\Debug\netcoreapp2.2\SuperDigital.Persistency.pdb
+F:\Projetos\SuperDigital\SuperDigital.Persistency\bin\Debug\netcoreapp2.2\SuperDigital.Common.dll
+F:\Projetos\SuperDigital\SuperDigital.Persistency\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Common.dll
+F:\Projetos\SuperDigital\SuperDigital.Persistency\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Model.dll
+F:\Projetos\SuperDigital\SuperDigital.Persistency\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Common.pdb
+F:\Projetos\SuperDigital\SuperDigital.Persistency\bin\Debug\netcoreapp2.2\SuperDigital.Domain.Model.pdb
+F:\Projetos\SuperDigital\SuperDigital.Persistency\bin\Debug\netcoreapp2.2\SuperDigital.Common.pdb
+F:\Projetos\SuperDigital\SuperDigital.Persistency\obj\Debug\netcoreapp2.2\SuperDigital.Persistency.csprojAssemblyReference.cache
+F:\Projetos\SuperDigital\SuperDigital.Persistency\obj\Debug\netcoreapp2.2\SuperDigital.Persistency.csproj.CoreCompileInputs.cache
+F:\Projetos\SuperDigital\SuperDigital.Persistency\obj\Debug\netcoreapp2.2\SuperDigital.Persistency.AssemblyInfoInputs.cache
+F:\Projetos\SuperDigital\SuperDigital.Persistency\obj\Debug\netcoreapp2.2\SuperDigital.Persistency.AssemblyInfo.cs
+F:\Projetos\SuperDigital\SuperDigital.Persistency\obj\Debug\netcoreapp2.2\SuperDigital.Persistency.csproj.CopyComplete
+F:\Projetos\SuperDigital\SuperDigital.Persistency\obj\Debug\netcoreapp2.2\SuperDigital.Persistency.dll
+F:\Projetos\SuperDigital\SuperDigital.Persistency\obj\Debug\netcoreapp2.2\SuperDigital.Persistency.pdb
